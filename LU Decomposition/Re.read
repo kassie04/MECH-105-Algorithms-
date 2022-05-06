@@ -1,0 +1,3 @@
+#LU Decomposition
+This function uses LU decomposition to generate a lower, upper, and pivot matrix. 
+The function will allow to easier solving of systems of equations (A\b).
