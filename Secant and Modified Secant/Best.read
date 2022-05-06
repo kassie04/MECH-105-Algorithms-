@@ -1,0 +1,3 @@
+#Secant and Modified Secant 
+This function takes two initial guesses and then uses the secant root finding method to locate the root of the inputted funtion.
+If there isonly one inputted intial guess, a step sixe is required, and modified secant will be used instead.
