@@ -8,3 +8,5 @@ Each algorithm file will have a discription of its specific function/purpose.
 * LU Decomposition
 * Simpson's 1/3 Rule 
 * Linear Regression 
+* Secant/Modified Secant
+* Newton Raphson 
